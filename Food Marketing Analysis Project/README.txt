@@ -1,6 +1,6 @@
 Food Marketing Analysis
 
-This project was my attempt at exploring UFood's data and making business recommendations for their marketing team. UFood is a leading food delivery app in Brazil, with customers in over a thousand cities. Their marketing team is looking for insights and recommendations in how to spend their annual budget for the next business year.
+This project was my attempt at exploring iFood's data and making business recommendations for their marketing team. iFood is a leading food delivery app in Brazil, with customers in over a thousand cities. Their marketing team is looking for insights and recommendations in how to spend their annual budget for the next business year.
 
 For this project, I created a Jupyter Notebook using Python. I utilized several Python libraries: Pandas, Seaborn and Matplotlib. 
 
